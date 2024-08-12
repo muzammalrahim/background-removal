@@ -1,0 +1,14 @@
+torch>=2.1.0,<=2.1.2
+torchvision>=0.16.0,<0.17.0
+gradio
+opencv-python
+diffusers[torch]
+transformers
+xformers
+accelerate
+safetensors
+timm
+scikit-image
+realesrgan
+basicsr>=1.4.2
+scipy
